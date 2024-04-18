@@ -1,0 +1,9 @@
+<testsuite failures="0" name="features/demo/delete.feature" skipped="0" tests="1" time="1.480117">
+  <testcase classname="features.demo.delete" name="teste 001" time="1.480117">
+    <system-out>* url baseURL ............................................................. passed
+* karate.callSingle('get.feature@teste001') ............................... passed
+Given path '/api/users/2' ................................................. passed
+When method delete ........................................................ passed
+Then status 204 ........................................................... passed</system-out>
+  </testcase>
+</testsuite>

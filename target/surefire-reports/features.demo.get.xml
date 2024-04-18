@@ -1,0 +1,18 @@
+<testsuite failures="0" name="features/demo/get.feature" skipped="0" tests="2" time="0.568222">
+  <testcase classname="features.demo.get" name="teste 001" time="0.481254">
+    <system-out>* url baseURL ............................................................. passed
+Given path '/api/users?page=2' ............................................ passed
+When method get ........................................................... passed
+Then status 200 ........................................................... passed</system-out>
+  </testcase>
+  <testcase classname="features.demo.get" name="teste 002" time="0.086968">
+    <system-out>* url baseURL ............................................................. passed
+Given path '/api/users?page=2' ............................................ passed
+When method get ........................................................... passed
+Then status 200 ........................................................... passed
+* url baseURL ............................................................. passed
+Given path '/api/users/2' ................................................. passed
+When method get ........................................................... passed
+Then status 200 ........................................................... passed</system-out>
+  </testcase>
+</testsuite>

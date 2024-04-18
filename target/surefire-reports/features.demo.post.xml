@@ -1,0 +1,90 @@
+<testsuite failures="0" name="features/demo/post.feature" skipped="0" tests="4" time="2.209477">
+  <testcase classname="features.demo.post" name="teste post 001" time="0.813704">
+    <system-out>* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed</system-out>
+  </testcase>
+  <testcase classname="features.demo.post" name="teste post 002" time="0.477384">
+    <system-out>* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed
+* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed</system-out>
+  </testcase>
+  <testcase classname="features.demo.post" name="teste post 003" time="0.478361">
+    <system-out>* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed
+* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed
+* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/register' ................................................ passed
+And request payloadPost03 ................................................. passed
+When method post .......................................................... passed
+Then status 200 ........................................................... passed</system-out>
+  </testcase>
+  <testcase classname="features.demo.post" name="teste post 003" time="0.440028">
+    <system-out>* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed
+* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/users' ................................................... passed
+And request payloadPost01 ................................................. passed
+When method post .......................................................... passed
+Then status 201 ........................................................... passed
+* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/register' ................................................ passed
+And request payloadPost03 ................................................. passed
+When method post .......................................................... passed
+Then status 200 ........................................................... passed
+* url baseURL ............................................................. passed
+* def payloadPost01 = read('../../data/payloadPost01.json') ............... passed
+* def payloadPost03 = read('../../data/payloadPost03.json') ............... passed
+* def payloadPost04 = read('../../data/payloadPost04.json') ............... passed
+Given path '/api/login' ................................................... passed
+And request payloadPost04 ................................................. passed
+When method post .......................................................... passed
+Then status 200 ........................................................... passed</system-out>
+  </testcase>
+</testsuite>

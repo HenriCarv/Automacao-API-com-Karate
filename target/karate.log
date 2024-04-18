@@ -1,0 +1,2560 @@
+16:11:22.603 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:11:22.862 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:12:46.711 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:12:46.969 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:13:07.298 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:13:10.117 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:13:10.378 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:15:16.041 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:15:16.305 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:23:51.732 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:36:28.149 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:36:28.404 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:39:37.715 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:39:37.982 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:50:17.519 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:50:17.800 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:51:48.221 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:51:58.112 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:51:58.369 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:52:52.766 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:52:53.027 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:53:18.908 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+16:53:19.169 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:54:37.208 [main]  INFO  com.intuit.karate - Karate version: 1.2.1.RC1
+16:54:37.362 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:55:27.200 [main]  INFO  com.intuit.karate - Karate version: 1.2.1.RC1
+16:55:27.357 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:58:02.021 [main]  INFO  com.intuit.karate - Karate version: 1.2.1.RC1
+16:58:02.184 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+16:58:07.898 [main]  INFO  com.intuit.karate - Karate version: 1.2.1.RC1
+16:58:08.053 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:01:09.081 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:01:09.381 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:04:38.509 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:04:38.770 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:04:56.605 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:04:56.801 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:04:56.864 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:05:28.677 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:06:01.919 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:06:02.120 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:06:02.183 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:06:19.250 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:06:19.451 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:06:19.511 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:07:14.081 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:07:14.282 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:07:14.349 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:08:20.532 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:08:20.727 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:08:20.792 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:08:48.948 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:09:50.985 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:10:24.752 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:11:21.108 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:11:35.242 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:12:55.032 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:12:59.608 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:13:21.437 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:13:27.479 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:18:52.775 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:19:20.447 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:19:20.701 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:19:50.806 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:19:51.058 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:31:58.238 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:31:58.486 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:34:51.284 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:34:51.546 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:34:52.923 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+17:34:52.928 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:34:52.932 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+And Path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:34:52.935 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:34:52.946 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:34:53.633 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:55:56.314 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:55:56.781 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:55:56.790 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387356782
+17:55:58.134 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+17:55:58.139 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:55:58.141 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+And Path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:55:58.157 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:55:58.160 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:55:58.957 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:56:11.486 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:56:11.682 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:56:11.756 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:56:11.765 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387371761
+17:56:12.621 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+17:56:12.625 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:56:12.638 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+And Path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:56:12.651 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:56:12.657 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:56:13.121 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:56:50.750 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:56:54.620 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:56:54.878 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:56:54.886 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387414879
+17:56:55.748 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+17:56:55.763 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:56:55.774 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+And Path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:56:55.789 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:56:55.791 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:56:56.274 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:57:32.041 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:57:32.303 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:57:32.310 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387452304
+17:57:33.224 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+17:57:33.229 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:57:33.232 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given Path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:57:33.254 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:57:33.262 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:57:33.843 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:58:08.860 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:58:09.124 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387489121
+17:58:09.966 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given Path '/api/users?page=2'
+no step-definition method match found for: Path '/api/users?page=2'
+features/demo/get.feature:9
+17:58:10.466 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:58:43.040 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:58:43.311 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387523306
+17:58:44.427 [main]  DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users%3Fpage=2
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/11.0.22)
+1 > Accept-Encoding: gzip,deflate
+
+
+17:58:44.664 [main]  DEBUG com.intuit.karate - response time in milliseconds: 228
+1 < 200
+1 < Date: Wed, 17 Apr 2024 21:04:04 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"2c1-N6Rqerxquq2kgQhL51EiSg4x0R8"
+1 < Via: 1.1 vegur
+1 < Cache-Control: max-age=14400
+1 < CF-Cache-Status: HIT
+1 < Age: 2707
+1 < Vary: Accept-Encoding
+1 < Server: cloudflare
+1 < CF-RAY: 875f5d8bab92028e-GRU
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+17:58:45.279 [main]  INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:59:13.727 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:59:13.986 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:59:13.992 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387553988
+17:59:14.863 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+17:59:14.868 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:59:14.873 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:59:14.884 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:59:14.899 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:59:15.383 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+17:59:30.701 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:59:36.674 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+17:59:36.864 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+17:59:36.940 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+17:59:36.950 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387576947
+17:59:37.809 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+17:59:37.813 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+17:59:37.818 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+17:59:37.822 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+17:59:37.825 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+17:59:38.414 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:00:03.181 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+18:00:03.367 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+18:00:03.442 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+18:00:03.453 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387603448
+18:00:04.326 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+18:00:04.337 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+18:00:04.341 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+18:00:04.347 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+18:00:04.353 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+18:00:04.920 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:01:24.932 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+18:01:25.119 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+18:01:25.194 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+18:01:25.205 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387685201
+18:01:26.042 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+18:01:26.047 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+18:01:26.058 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+18:01:26.067 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+18:01:26.073 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+18:01:26.571 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:02:21.254 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+18:02:21.511 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+18:02:21.519 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713387741513
+18:02:22.379 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+18:02:22.383 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+18:02:22.388 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+18:02:22.392 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+18:02:22.395 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function fn() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     Karate.configure('ssl', true);
+05:     if (!env) {
+06:         env = 'dev';
+07:     }
+08:     if (env == 'dev') {
+09:         baseURL = 'https://reqres.in'
+10:     } else if (env == 'hom') {
+11:         baseURL = 'https://reqres.in'
+12:     }
+13:     var config = {
+14:         env: env,
+15:         baseURL: baseURL,
+16:     }
+17:     return config;
+18:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.fn(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+18:02:22.884 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:08:07.161 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+18:08:07.349 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+18:08:07.423 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+18:08:07.439 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713388087436
+18:08:08.283 [main]  INFO  com.intuit.karate - karate.env system property was: dev 
+18:08:08.529 [main]  DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users%3Fpage=2
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/11.0.22)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:08:08.763 [main]  DEBUG com.intuit.karate - response time in milliseconds: 229
+1 < 200
+1 < Date: Wed, 17 Apr 2024 21:13:28 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"2c1-N6Rqerxquq2kgQhL51EiSg4x0R8"
+1 < Via: 1.1 vegur
+1 < Cache-Control: max-age=14400
+1 < CF-Cache-Status: HIT
+1 < Age: 3271
+1 < Vary: Accept-Encoding
+1 < Server: cloudflare
+1 < CF-RAY: 875f6b51580951d7-GRU
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+18:08:09.247 [main]  INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:11:36.878 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+18:11:37.077 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+18:11:37.152 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+18:11:37.168 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713388297163
+18:11:38.071 [main]  ERROR com.intuit.karate - features/demo/get.feature:4
+* url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     if (!env) {
+05:         env = 'dev';
+06:     }
+07:     if (env == 'dev') {
+08:         baseURL = 'https://reqres.in'
+09:     } else if (env == 'hom') {
+10:         baseURL = 'https://reqres.in'
+11:     }
+12:     var config = {
+13:         env: env,
+14:         baseURL: baseURL,
+15:     }
+16:     return config;
+17:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+18:11:38.090 [main]  ERROR com.intuit.karate - features/demo/get.feature:8
+Given url "https://reqres.in"
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     if (!env) {
+05:         env = 'dev';
+06:     }
+07:     if (env == 'dev') {
+08:         baseURL = 'https://reqres.in'
+09:     } else if (env == 'hom') {
+10:         baseURL = 'https://reqres.in'
+11:     }
+12:     var config = {
+13:         env: env,
+14:         baseURL: baseURL,
+15:     }
+16:     return config;
+17:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+18:11:38.098 [main]  ERROR com.intuit.karate - features/demo/get.feature:9
+Given path '/api/users?page=2'
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     if (!env) {
+05:         env = 'dev';
+06:     }
+07:     if (env == 'dev') {
+08:         baseURL = 'https://reqres.in'
+09:     } else if (env == 'hom') {
+10:         baseURL = 'https://reqres.in'
+11:     }
+12:     var config = {
+13:         env: env,
+14:         baseURL: baseURL,
+15:     }
+16:     return config;
+17:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+18:11:38.106 [main]  ERROR com.intuit.karate - features/demo/get.feature:10
+When method get
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     if (!env) {
+05:         env = 'dev';
+06:     }
+07:     if (env == 'dev') {
+08:         baseURL = 'https://reqres.in'
+09:     } else if (env == 'hom') {
+10:         baseURL = 'https://reqres.in'
+11:     }
+12:     var config = {
+13:         env: env,
+14:         baseURL: baseURL,
+15:     }
+16:     return config;
+17:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+18:11:38.113 [main]  ERROR com.intuit.karate - features/demo/get.feature:11
+Then status 200
+>> features/demo/get.feature:7
+>> karate-config.js failed
+>> ReferenceError: "Karate" is not defined
+js failed:
+>>>>
+01: function() {
+02:     var env = Karate.env; // get system property 'karate.env'
+03:     Karate.log('karate.env system property was:', env);
+04:     if (!env) {
+05:         env = 'dev';
+06:     }
+07:     if (env == 'dev') {
+08:         baseURL = 'https://reqres.in'
+09:     } else if (env == 'hom') {
+10:         baseURL = 'https://reqres.in'
+11:     }
+12:     var config = {
+13:         env: env,
+14:         baseURL: baseURL,
+15:     }
+16:     return config;
+17:   }
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "Karate" is not defined
+- <js>.:anonymous(Unnamed:2)
+
+features/demo/get.feature:4
+features/demo/get.feature:8
+features/demo/get.feature:9
+features/demo/get.feature:10
+features/demo/get.feature:11
+18:11:38.638 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:13:09.351 [main]  INFO  com.intuit.karate - Karate version: 1.4.1
+18:13:09.535 [main]  INFO  com.intuit.karate.Runner - karate.env is: 'dev'
+18:13:09.610 [main]  DEBUG com.intuit.karate.Suite - [config] karate-config.js
+18:13:09.625 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1713388389622
+18:13:10.475 [main]  INFO  com.intuit.karate - karate.env system property was: dev 
+18:13:10.710 [main]  DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users%3Fpage=2
+1 > Host: reqres.in
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/11.0.22)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:13:10.988 [main]  DEBUG com.intuit.karate - response time in milliseconds: 270
+1 < 200
+1 < Date: Wed, 17 Apr 2024 21:18:30 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < X-Powered-By: Express
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"2c1-N6Rqerxquq2kgQhL51EiSg4x0R8"
+1 < Via: 1.1 vegur
+1 < Cache-Control: max-age=14400
+1 < CF-Cache-Status: HIT
+1 < Age: 3573
+1 < Vary: Accept-Encoding
+1 < Server: cloudflare
+1 < CF-RAY: 875f72b21a3c013c-GRU
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+18:13:11.486 [main]  INFO  com.intuit.karate.Suite - <<pass>> feature 1 of 1 (0 remaining) features/demo/get.feature
+18:13:59.139 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+18:13:59.713 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+18:14:00.004 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users%3Fpage=2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+18:14:00.207 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 192,21
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 3622
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 875f73e5aed1a420-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 17 Apr 2024 21:19:19 GMT
+1 < Etag: W/"2c1-N6Rqerxquq2kgQhL51EiSg4x0R8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+18:14:00.309 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/get.feature
+18:20:12.230 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+18:20:12.804 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+18:20:13.085 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users%3Fpage=2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+18:20:13.326 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 229,15
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 3996
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 875f7d01896f1a8e-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 17 Apr 2024 21:25:33 GMT
+1 < Etag: W/"2c1-N6Rqerxquq2kgQhL51EiSg4x0R8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+18:20:13.357 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+18:20:13.371 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+18:20:13.439 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 61,60
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 2796
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 875f7d027fd25210-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 17 Apr 2024 21:25:33 GMT
+1 < Etag: W/"118-pbdwwFo9SKNhD3Lx5iHJyngpq00"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713353222&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ew2ky4IdeqrpwTsspc0q44DG%2FT7XVXIMRCKqMNJyoQY%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713353222&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=ew2ky4IdeqrpwTsspc0q44DG%2FT7XVXIMRCKqMNJyoQY%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+18:20:13.529 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/get.feature
+08:32:24.504 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:32:24.893 [main] ERROR com.intuit.karate.core.FeatureParser - syntax error: mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}
+08:32:24.894 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: features/demo/post.feature - mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}
+08:32:24.894 [main] ERROR com.intuit.karate.Runner - karate parallel runner failed: 
+08:32:44.484 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:32:44.589 [main] ERROR com.intuit.karate.core.FeatureParser - syntax error: mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}
+08:32:44.591 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: features/demo/post.feature - mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}
+08:32:44.591 [main] ERROR com.intuit.karate.Runner - karate parallel runner failed: 
+08:32:53.492 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:32:54.136 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:32:54.330 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/post.feature
+08:33:21.505 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:33:22.072 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:33:22.204 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/post.feature
+08:33:29.515 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:33:30.064 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:33:30.427 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+08:33:31.114 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 683,08
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: REVALIDATED
+1 < CF-RAY: 87645f01191600d5-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:38:53 GMT
+1 < Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713386250&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=AaObqCbEFrtkAizvVhmoyxtHIGituqNNZjqlG6iMe08%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713386250&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=AaObqCbEFrtkAizvVhmoyxtHIGituqNNZjqlG6iMe08%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+08:33:31.119 [ForkJoinPool-1-worker-3] ERROR com.intuit.karate - status code was: 200, expected: 201, response time: 683, url: https://reqres.in/api/users, response: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+08:33:31.182 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/post.feature
+08:34:00.665 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:34:01.268 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:34:01.579 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+08:34:02.202 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 611,46
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: REVALIDATED
+1 < CF-RAY: 87645fc36a6e0309-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:39:24 GMT
+1 < Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713386240&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=sRsXSsPWMlEGZjJkZt%2Bo1PofRzQx5cq%2BX10XRIveieQ%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713386240&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=sRsXSsPWMlEGZjJkZt%2Bo1PofRzQx5cq%2BX10XRIveieQ%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+08:34:02.229 [ForkJoinPool-1-worker-3] ERROR com.intuit.karate - status code was: 200, expected: 201, response time: 611, url: https://reqres.in/api/users, response: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+08:34:02.301 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/post.feature
+08:34:13.598 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:34:14.199 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:34:14.505 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+08:34:14.749 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 228,43
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 44
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 876460145c90a52f-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:39:37 GMT
+1 < Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713386250&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=AaObqCbEFrtkAizvVhmoyxtHIGituqNNZjqlG6iMe08%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713386250&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=AaObqCbEFrtkAizvVhmoyxtHIGituqNNZjqlG6iMe08%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+08:34:14.770 [ForkJoinPool-1-worker-3] ERROR com.intuit.karate - status code was: 200, expected: 201, response time: 228, url: https://reqres.in/api/users, response: {"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+08:34:14.853 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/post.feature
+08:34:27.185 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:34:27.790 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:34:28.090 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+08:34:28.377 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 268,25
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < Age: 26
+1 < CF-Cache-Status: HIT
+1 < CF-RAY: 876460697a83a507-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:39:50 GMT
+1 < Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713386240&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=sRsXSsPWMlEGZjJkZt%2Bo1PofRzQx5cq%2BX10XRIveieQ%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713386240&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=sRsXSsPWMlEGZjJkZt%2Bo1PofRzQx5cq%2BX10XRIveieQ%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"email":"george.bluth@reqres.in","first_name":"George","last_name":"Bluth","avatar":"https://reqres.in/img/faces/1-image.jpg"},{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},{"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Wong","avatar":"https://reqres.in/img/faces/3-image.jpg"},{"id":4,"email":"eve.holt@reqres.in","first_name":"Eve","last_name":"Holt","avatar":"https://reqres.in/img/faces/4-image.jpg"},{"id":5,"email":"charles.morris@reqres.in","first_name":"Charles","last_name":"Morris","avatar":"https://reqres.in/img/faces/5-image.jpg"},{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tracey","last_name":"Ramos","avatar":"https://reqres.in/img/faces/6-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+08:34:28.470 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/post.feature
+08:36:16.250 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:36:16.814 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:36:17.122 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 34
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"name":"morpheus","job":"leader"}
+
+08:36:17.683 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 557,08
+1 < 201
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 876463127d7977ed-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 84
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:41:39 GMT
+1 < Etag: W/"54-MJwv3PV7jTRrwnR+HG5UBHm8PmU"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713440499&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Jp8giSNIHK62ZaxcY5njgpOLWznIvZ97AVFS2Jgr%2Fjs%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713440499&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Jp8giSNIHK62ZaxcY5njgpOLWznIvZ97AVFS2Jgr%2Fjs%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"name":"morpheus","job":"leader","id":"619","createdAt":"2024-04-18T11:41:39.923Z"}
+
+08:36:17.686 [ForkJoinPool-1-worker-3] ERROR com.intuit.karate - status code was: 201, expected: 200, response time: 557, url: https://reqres.in/api/users, response: {"name":"morpheus","job":"leader","id":"619","createdAt":"2024-04-18T11:41:39.923Z"}
+08:36:17.739 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/post.feature
+08:36:24.289 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:36:24.834 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:36:25.100 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 34
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"name":"morpheus","job":"leader"}
+
+08:36:25.664 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 559,88
+1 < 201
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 876463442de4031a-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 84
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:41:47 GMT
+1 < Etag: W/"54-d1f4CKJYy/JCflJtc5xc/6fe8oo"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713440507&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=dcibyBR3TTBjXgccLsaWUsn3jrvG7kUjMRFxZvsoFj0%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713440507&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=dcibyBR3TTBjXgccLsaWUsn3jrvG7kUjMRFxZvsoFj0%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"name":"morpheus","job":"leader","id":"519","createdAt":"2024-04-18T11:41:47.896Z"}
+
+08:36:25.724 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/post.feature
+08:37:26.056 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:37:26.600 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:37:26.762 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/put.feature
+08:37:54.698 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:37:55.248 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:37:55.313 [ForkJoinPool-1-worker-3] ERROR com.intuit.karate - http request failed: request body is required for a PUT, please use the 'request' keyword
+08:37:55.377 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/put.feature
+08:38:38.285 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:38:38.832 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:38:39.104 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > PUT https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 41
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"name":"morpheus","job":"zion resident"}
+
+08:38:39.759 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 651,55
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 8764668a7a14a426-GRU
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:44:02 GMT
+1 < Etag: W/"50-rIwUbHuQ3SzLREiHf0Ehw9IRU2o"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713440641&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8Z%2F5T3n8Vmvwk1wt9myNEP5HcX%2FNXtloHq8FUg%2Bc7tA%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713440641&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8Z%2F5T3n8Vmvwk1wt9myNEP5HcX%2FNXtloHq8FUg%2Bc7tA%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"name":"morpheus","job":"zion resident","updatedAt":"2024-04-18T11:44:01.987Z"}
+
+08:38:39.816 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/put.feature
+08:40:50.883 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:40:51.426 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:40:51.544 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/path.feature
+08:43:15.411 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:43:15.962 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:43:16.089 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/path.feature
+08:43:24.789 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:43:25.366 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:43:25.637 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > PATCH https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 41
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"name":"morpheus","job":"zion resident"}
+
+08:43:26.239 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 595,13
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 87646d88b8516252-GRU
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:48:48 GMT
+1 < Etag: W/"50-VFoXli+JDDqWRJkJ1iE2oJK73sI"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713440928&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=QtDqMn2zBvqUckaEpajJgC%2BmBQRaxn2KnV4vBCm3Wt4%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713440928&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=QtDqMn2zBvqUckaEpajJgC%2BmBQRaxn2KnV4vBCm3Wt4%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"name":"morpheus","job":"zion resident","updatedAt":"2024-04-18T11:48:48.433Z"}
+
+08:43:26.305 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/path.feature
+08:47:36.327 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:47:36.963 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:47:37.040 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../../feature/demo/fet.feature@teste001
+08:47:37.124 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:47:54.174 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:47:54.778 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:47:54.846 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../feature/demo/fet.feature@teste001
+08:47:54.919 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:48:10.523 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:48:11.146 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:48:11.207 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../../../feature/demo/fet.feature@teste001
+08:48:11.285 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:48:23.873 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:48:24.484 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:48:24.546 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../../../feature/demo/fet.feature@teste001
+08:48:24.630 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:48:32.898 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:48:33.505 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:48:33.580 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: /feature/demo/fet.feature@teste001
+08:48:33.648 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:48:52.384 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:48:52.994 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:48:53.052 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../../../feature/demo/get.feature@teste001
+08:48:53.122 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:49:00.287 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:49:00.901 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:49:00.971 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../../feature/demo/get.feature@teste001
+08:49:01.035 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:49:11.825 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:49:12.463 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:49:12.557 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../feature/demo/get.feature@teste001
+08:49:12.634 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:49:25.988 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:49:26.638 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:49:26.751 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: ../../../feature/demo/get.feature@teste001
+08:49:26.822 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<fail>> feature 1 of 1: features/demo/delete.feature
+08:50:01.513 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:50:02.158 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:50:02.229 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - >> lock acquired, begin callSingle: get.feature@teste001
+08:50:02.242 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - scenario called at line: 7 by tag: @teste001
+08:50:02.491 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > GET https://reqres.in/api/users%3Fpage=2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+08:50:03.174 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 672,39
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: REVALIDATED
+1 < CF-RAY: 876477397c6f1b26-GRU
+1 < Cache-Control: max-age=14400
+1 < Connection: keep-alive
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 11:55:25 GMT
+1 < Etag: W/"2c1-N6Rqerxquq2kgQhL51EiSg4x0R8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713385136&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=TrreJUHbGJT%2BQ7deC%2FdTc7e7ceBMW%2Fl%2FQOwUBxgrVl8%3D
+1 < Server: cloudflare
+1 < Transfer-Encoding: chunked
+1 < Vary: Accept-Encoding
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"page":1,"per_page":6,"total":12,"total_pages":2,"data":[{"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"},{"id":2,"name":"fuchsia rose","year":2001,"color":"#C74375","pantone_value":"17-2031"},{"id":3,"name":"true red","year":2002,"color":"#BF1932","pantone_value":"19-1664"},{"id":4,"name":"aqua sky","year":2003,"color":"#7BC4C4","pantone_value":"14-4811"},{"id":5,"name":"tigerlily","year":2004,"color":"#E2583E","pantone_value":"17-1456"},{"id":6,"name":"blue turquoise","year":2005,"color":"#53B0AE","pantone_value":"15-5217"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+
+08:50:03.221 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - << lock released, cached callSingle: get.feature@teste001
+08:50:03.236 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > DELETE https://reqres.in/api/users/2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+
+08:50:03.694 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 455,18
+1 < 204
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 8764773ce862622d-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 0
+1 < Date: Thu, 18 Apr 2024 11:55:26 GMT
+1 < Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713441325&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8i9PORAPP5J3%2BVIFOPnBdL0hi9QGmxwd6TTroPCpfHY%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713441325&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8i9PORAPP5J3%2BVIFOPnBdL0hi9QGmxwd6TTroPCpfHY%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+
+08:50:03.793 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/delete.feature
+08:55:58.419 [main] INFO  com.intuit.karate.Main - Karate version: 0.9.4
+08:55:58.976 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:55:59.257 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 34
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"name":"morpheus","job":"leader"}
+
+08:55:59.838 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 573,58
+1 < 201
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 87647fee88190227-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 84
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 12:01:22 GMT
+1 < Etag: W/"54-jJPniMgzTWj+Dd+ldHBeUiWKAwg"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713441682&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=cQBqSO3AIlxmE2rPKjSoZoF9xmFTfANJ8TAyLbKe4Uo%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713441682&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=cQBqSO3AIlxmE2rPKjSoZoF9xmFTfANJ8TAyLbKe4Uo%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"name":"morpheus","job":"leader","id":"285","createdAt":"2024-04-18T12:01:22.028Z"}
+
+08:55:59.849 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:55:59.857 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/users
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 34
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"name":"morpheus","job":"leader"}
+
+08:56:00.322 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 463,48
+1 < 201
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 87647ff1a85802f2-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 84
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 12:01:22 GMT
+1 < Etag: W/"54-mdPXhB7rNz+bpzbF0axHNQ6dwlI"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713441682&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=cQBqSO3AIlxmE2rPKjSoZoF9xmFTfANJ8TAyLbKe4Uo%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713441682&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=cQBqSO3AIlxmE2rPKjSoZoF9xmFTfANJ8TAyLbKe4Uo%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"name":"morpheus","job":"leader","id":"971","createdAt":"2024-04-18T12:01:22.530Z"}
+
+08:56:00.334 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:56:00.343 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/register
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 50
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"email":"eve.holt@reqres.in","password":"pistol"}
+
+08:56:00.813 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 466,92
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 87647ff4def91aad-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 36
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 12:01:23 GMT
+1 < Etag: W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713441683&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Hi%2FDU1ClBKR5OEZAG3X88H1YSvx7A%2Fd5iLib9NNW9SU%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713441683&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Hi%2FDU1ClBKR5OEZAG3X88H1YSvx7A%2Fd5iLib9NNW9SU%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"id":4,"token":"QpwL5tke4Pnpja7X4"}
+
+08:56:00.821 [ForkJoinPool-1-worker-3] INFO  com.intuit.karate - karate.env system property was: dev 
+08:56:00.831 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - request:
+1 > POST https://reqres.in/api/login
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 54
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: reqres.in
+1 > User-Agent: Apache-HttpClient/4.5.5 (Java/11.0.22)
+{"email":"eve.holt@reqres.in","password":"cityslicka"}
+
+08:56:01.262 [ForkJoinPool-1-worker-3] DEBUG com.intuit.karate - response time in milliseconds: 430,27
+1 < 200
+1 < Access-Control-Allow-Origin: *
+1 < CF-Cache-Status: DYNAMIC
+1 < CF-RAY: 87647ff7c9566263-GRU
+1 < Connection: keep-alive
+1 < Content-Length: 29
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Thu, 18 Apr 2024 12:01:23 GMT
+1 < Etag: W/"1d-lGCrvD6B7Qzk11+2C98+nGhhuec"
+1 < Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+1 < Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1713441683&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Hi%2FDU1ClBKR5OEZAG3X88H1YSvx7A%2Fd5iLib9NNW9SU%3D"}]}
+1 < Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1713441683&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=Hi%2FDU1ClBKR5OEZAG3X88H1YSvx7A%2Fd5iLib9NNW9SU%3D
+1 < Server: cloudflare
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{"token":"QpwL5tke4Pnpja7X4"}
+
+08:56:01.319 [pool-1-thread-1] INFO  com.intuit.karate.Runner - <<pass>> feature 1 of 1: features/demo/post.feature

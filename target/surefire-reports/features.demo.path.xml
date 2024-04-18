@@ -1,0 +1,10 @@
+<testsuite failures="0" name="features/demo/path.feature" skipped="0" tests="1" time="0.818547">
+  <testcase classname="features.demo.path" name="teste 001" time="0.818547">
+    <system-out>* url baseURL ............................................................. passed
+* def payloadPatch01 = read('../../data/payloadPatch01.json') ............. passed
+Given path '/api/users/2' ................................................. passed
+And request payloadPatch01 ................................................ passed
+When method patch ......................................................... passed
+Then status 200 ........................................................... passed</system-out>
+  </testcase>
+</testsuite>
